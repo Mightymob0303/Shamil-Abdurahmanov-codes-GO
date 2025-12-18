@@ -26,9 +26,9 @@ import (
 
 // Keep these in sync with the comment header above (used for -d output dir name)
 const (
-	StudentFirstName = "YOUR_FIRSTNAME_HERE"
-	StudentSurname   = "YOUR_SURNAME_HERE"
-	StudentID        = "YOUR_STUDENT_ID_HERE"
+	StudentFirstName = "Shamil"
+	StudentSurname   = "Abdurahmanov"
+	StudentID        = "241ADB070"
 )
 
 func main() {
