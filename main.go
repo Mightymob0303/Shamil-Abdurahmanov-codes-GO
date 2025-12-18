@@ -2,15 +2,8 @@
 // StudentID: 241ADB070
 // TO RUN THE CODE USE THESE COMMANDS: go run . -r 20 (for random numbers)
 // go run . -i input.txt (for numbers in the input.txt file)
-// 
+// go run . -d incoming  (to Run directory mode)
 //
-
-
-
-
-
-
-
 // 
 package main
 
